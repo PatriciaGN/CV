@@ -23,6 +23,7 @@ I have found in tech what I always looked for: lots of situations that can be de
 _Circus artist_
 * Work as a performer doing walkabouts.
 * Currently training to become a fire-performer (dragon staff and fire fans).
+* Training in aerial-hoop.
 
 **Vets4Pets Poole** (May 2021 – June 2022)
 
