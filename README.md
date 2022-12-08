@@ -1,6 +1,6 @@
 ## Patricia Garcia Nieto 
 
-[About me](#About me) | [Projects](#Projects) | [Work Experience](#Work experience) | [Skills](#Skills) | [Education](#Education) | [Additional learning](#Additional learning) | [Hobbies](#Hobbies)
+[About me](#About) | [Projects](#Projects) | [Work Experience](#Work) | [Skills](#Skills) | [Education](#Education) | [Additional learning](#Additional) | [Hobbies](#Hobbies)
 
 ## About me :smile_cat:
 
