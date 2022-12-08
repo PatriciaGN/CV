@@ -1,6 +1,6 @@
 ## Patricia Garcia Nieto 
 
-[About me](## About me) | [Projects](## Projects) | [Work Experience](## Work experience) | [Skills](## Skills) | [Education](## Education) | [Additional learning](## Additional learning) | [Hobbies](## Hobbies)
+[About me](#About me) | [Projects](#Projects) | [Work Experience](#Work experience) | [Skills](#Skills) | [Education](#Education) | [Additional learning](#Additional learning) | [Hobbies](#Hobbies)
 
 ## About me :smile_cat:
 
@@ -26,7 +26,7 @@ I am looking for a company that values the individual, their opinions and ideas,
 | https://github.com/AliBDev/makersbnb-ruby-seed| MakersBnB | | Group project making an AirBnB clone in one week while pairing and using TDD | Postgres, Ruby, RSpec, CSS, HTML |
 
 
-## Work experience
+## Work experience :construction_worker:
 
 **Steamship circus** (August 2022 - current)
 
@@ -70,7 +70,7 @@ _Lead singer_
 * Before doing this, the thought of going on a stage seemed really scary, but I learnt to overcome my fears, speak in public and keep people entertained.
 
 
-## Skills - What can I bring to your team?
+## Skills - What can I bring to your team? :bulb:
 
 ### Team worker and good communicator
 I love meeting new people, getting to know their stories and creating meaningful relationships. I also enjoy creating a safe and comfortable space for the people around me, where communication and emotional intelligence are the key to achieving an environment where everyone feels respected, valued and appreciated. I am also happy to act as a mediator if the situation arises and enjoy mentoring or leading where appropriate. For example, during the course, there were times in which we were paired with people that was far behind in the exercises. I always tried to take the time to help and revise the contents, finding better ways of explaining the concepts, which aided with my own learning.
@@ -110,7 +110,7 @@ During Makers, we have underwent an extensive Emotional Intelligence curriculum 
 After most of my pairing sessions and group projects, I have asked for feedback, as I am willing to take on board any potential improvements that can make the experience easier for the people involved and help me grow. I also try to give constructive feedback when appropriate.
 
 
-## Education
+## Education :books:
 
 #### Makers Academy (September 2022 – December 2022) 
 * During this time, we have done daily pairing sessions in order to problem solve efficiently, requiring teamwork and good communication. This was one of my favourite parts of the course, as it gave us an opportunity to learn from each other, as well as support each other through such an intensive experience.
@@ -127,7 +127,7 @@ After most of my pairing sessions and group projects, I have asked for feedback,
 * Intern student in the Anaesthesia department.
 
 
-## Additional learning
+## Additional learning :pencil2:
 
 * GPCert in Small Animal Surgery (December 2019 – September 2022)
    GP level specialisation in surgery, which helped me become more confident in my procedures and my communication with clients.
@@ -138,7 +138,7 @@ After most of my pairing sessions and group projects, I have asked for feedback,
 
 * Basic German and French (level A2)
 
-## Hobbies
+## Hobbies  :art:
 
 I am very glad you have made it this far, because this is my favourite part of all!. I am not too sure of where to start though...
 
