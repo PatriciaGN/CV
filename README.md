@@ -20,8 +20,8 @@ I am looking for a company that values the individual, their opinions and ideas,
 | Repo Link | Name | Video/Website link   | Description       | Tech/tools        |
 |-----|-----| ---------------------------- | ----------------- | ----------------- |
 | [Repo](https://github.com/PattyFlowers/PattyFlowers.github.io) | Cat from space | [**catfromspace.com**](https://catfromspace.com)         | Personal blog about my career change, tech, vetting, and wellbeing.| Jekyll, Markdown, HTML |
-| [Repo](https://github.com/tomallens/votewatch) | Votewatch | [https://www.youtube.com/watch?v=jNPUt79UpsA](https://www.youtube.com/watch?v=jNPUt79UpsA) (First presentation) | Final group project for Makers Academy, building our own idea from scratch in two weeks: In this case, a phone application to make UK politics more accessible to the public! | Postgres, Sequelize, NodeJS, React Native, Expo Go |
-|[Repo](https://github.com/PatriciaGN/acebook-team-owlpaca) | Grumblebook | [https://youtu.be/0TfqEReexWY](https://youtu.be/0TfqEReexWY)| Group project creating our fun version of Facebook | MERN - MongoDB and Mongoose, ExpressJS, ReactJS and NodeJS|
+| [Repo](https://github.com/tomallens/votewatch) | Votewatch | [Youtube video](https://www.youtube.com/watch?v=jNPUt79UpsA) (First presentation) | Final group project for Makers Academy, building our own idea from scratch in two weeks: In this case, a phone application to make UK politics more accessible to the public! | Postgres, Sequelize, NodeJS, React Native, Expo Go |
+|[Repo](https://github.com/PatriciaGN/acebook-team-owlpaca) | Grumblebook | [Youtube video](https://youtu.be/0TfqEReexWY)| Group project creating our fun version of Facebook | MERN - MongoDB and Mongoose, ExpressJS, ReactJS and NodeJS|
 |[Repo](https://github.com/PatriciaGN/bank-tech-test) | Bank tech test | | Practice tech test in which we had to create a small banking application using TDD and best practices | JavaScript, Jest, NodeJS |
 | [Repo](https://github.com/AliBDev/makersbnb-ruby-seed)| MakersBnB | | Group project making an AirBnB clone in one week while pairing and using TDD | Postgres, Ruby, RSpec, CSS, HTML |
 
